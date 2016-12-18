@@ -1,0 +1,14 @@
+[
+  {
+   "repository":  "android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+   "branch":      "cm-14.1",
+   "remote":      "cm"
+  },
+  {
+   "repository":  "proprietary_vendor_asus",
+   "target_path": "vendor/asus",
+   "branch":      "n7.1",
+   "remote":      "aicp"
+  }
+]
